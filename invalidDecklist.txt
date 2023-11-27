@@ -1,0 +1,8 @@
+10 Plains
+10 Island
+10 Swamp
+10 Mountain
+10 Forest
+30 Fury Sliver
+10 Ancestral Recall
+15 Skullcrack

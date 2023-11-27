@@ -1,0 +1,6 @@
+Decklist: Untitled
+Format: 
+In Collections: 
+2 cardname1
+3 cardname2
+1 cardname3
